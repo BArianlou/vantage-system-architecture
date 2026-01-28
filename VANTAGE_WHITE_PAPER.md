@@ -30,12 +30,16 @@ Chronos does not predict *one* deterministic outcome. It predicts *10,000* proba
 
 Using the **APEX** ingestion layer, Chronos reconstructs the event environment, applying transition probabilities derived from the physics model. It executes a full Monte Carlo simulation in minutes, mapping the entire cone of uncertainty.
 
+![Triune Architecture](architecture.png)
+
 ### 4. Identifying the Alpha (The Divergence)
 The output of the engine is not a score; it is a **Probability Surface**.
 By overlaying the "Vantage Surface" (True Distribution) against the "Market Line" (Consensus), we isolate **Structural Divergence**.
 
 *   **Calibration:** In the validation set, the model’s central tendency converged to within a tight margin of the efficient market frontier, validating the physics-based assumptions.
 *   **The Alpha Signal:** In specific high-variance matchups, the model identified massive divergences (15+ points) in the Total Score projection. These are not statistical anomalies; they are instances where the market failed to price the **Entropy** of the specific matchup.
+
+![Convergence Histogram](histogram.png)
 
 ### 5. Conclusion
 Vantage demonstrates that the principles of stochastic physics are domain-agnostic. Whether modeling liquidity cascades in financial markets or scoring drives in the NFL, the mathematics of entropy and potential energy remain the constant. The future of predictive analysis is not in better regression, but in superior simulation.
