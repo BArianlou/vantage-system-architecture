@@ -23,7 +23,7 @@ The full engineering doctrine and methodology are available in the White Paper:
 
 ### Core Capabilities
 *   **Physics-Based Modeling:** Maps EPA (Expected Points Added) to Potential Energy and Turnovers to Entropy.
-*   **Vectorized Simulation:** NumPy-based kernels executing 10,000 runs per event in minutes.
+*   **Vectorized Simulation:** NumPy-based kernels executing 10,000 runs per event.
 *   **Alpha Detection:** Identifies structural divergences >3.0 points against institutional baselines.
 
 ### Validation Case: NFL 2025-2026
