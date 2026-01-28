@@ -1,4 +1,4 @@
-# vantage-system-architecture
+# Vantage System Architecture
 Technical documentation and architectural specifications for the Vantage Predictive Engine (SPIPA).
 ![Method](https://img.shields.io/badge/Method-Monte_Carlo-blue)
 ![Build Status](https://github.com/BArianlou/vantage-nfl-arbitrage/actions/workflows/vantage_ci.yml/badge.svg)
