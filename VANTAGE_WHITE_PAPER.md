@@ -1,3 +1,7 @@
+![Method](https://img.shields.io/badge/Method-Stochastic%20Physics-007EC6?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-SPIPA-8A2BE2?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python_3.10+-3776AB?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Operational-2ea44f?style=for-the-badge)
 # The Physics of Uncertainty: Engineering the Vantage Engine
 **By Bijan Arianlou**
 
